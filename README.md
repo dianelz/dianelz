@@ -4,7 +4,7 @@
 - 👀 Passionate about **development** and always eager to **learn new technologies**.
 - 🌱 Currently learning **TypeScript, Nest.js, SvelteKit**.
 - 💼 Working as a **hands-on CPTO**, blending leadership with active coding in Python.
-- 💡 Experienced with **Odoo, Angular, React, Laravel, PostgreSQL, and cloud infrastructure**.
+- 💡 Experienced with **Odoo, Angular, React, PostgreSQL, and cloud infrastructure**.
 
 💬 **Let’s Connect!**
 - 📫 Reach me at diane.elzaabi@gmail.com
